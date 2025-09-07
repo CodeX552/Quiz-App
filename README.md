@@ -41,21 +41,6 @@ React hooks, and user-friendly UI/UX design.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-    quiz-app/
-    ├── public/
-    │   └── index.html
-    ├── src/
-    │   ├── components/    # Presentational components
-    │   ├── pages/         # Quiz & Results pages
-    │   ├── data/          # Local questions.json (if used)
-    │   ├── App.js         # Main app logic
-    │   ├── index.js       # Entry point
-    │   └── styles/        # Tailwind / CSS files
-    └── package.json
-
-------------------------------------------------------------------------
 
 ## ⚡ Getting Started
 
@@ -84,21 +69,6 @@ npm start
 npm run build
 ```
 
-------------------------------------------------------------------------
-
-## 🌐 Deployment
-
-You can deploy the app easily using:\
-- **GitHub Pages**\
-- **Netlify**\
-- **Vercel**
-
-Example (Netlify):
-
-``` bash
-npm run build
-netlify deploy
-```
 
 ------------------------------------------------------------------------
 
@@ -111,12 +81,6 @@ netlify deploy
     empty data.\
 -   Code includes comments for clarity.
 
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-Developed as part of a coding challenge.\
-📩 For queries: <hiring@todaypay.me>
 
 ------------------------------------------------------------------------
 
